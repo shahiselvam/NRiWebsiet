@@ -11846,12 +11846,12 @@ color:#fff }
 
 .w3l-footer-29-main .footer-top-29 {
   grid-gap: 40px;
-  grid-template-columns:3fr 3fr 3fr; }
+  grid-template-columns:3fr 2fr 4fr; }
 
 .w3l-footer-29-main .footer-list-29 .properties a {
   display: grid;
-  grid-template-columns: 1fr 3fr;
-  grid-gap: 20px;
+  grid-template-columns: 1fr 3fr ;
+  grid-gap: 10px;
   margin-bottom: 10px; }
 
 .w3l-footer-29-main .footer-list-29 .properties a p:hover {
