@@ -11363,10 +11363,16 @@ button.owl-next {
   margin-bottom: 10px; }
 
 .w3l-form-12 .column1 {
-  background: #f7f7f7;
+  /* background: #f7f7f7; */
   border-radius: 4px;
-  padding: 27px 25px 28px;
-  border: 1px solid #f1f1f1; }
+  /* padding: 27px 25px 28px; */
+ }
+
+ .column1 h3 {
+   font-size:35px;
+   padding-bottom: 10px;
+
+ }
 
 .w3l-form-12 .form-para {
   margin: 10px 0;
@@ -12358,11 +12364,12 @@ color:#fff }
     color: var(--theme-color); }
   .w3l-features-8 .float-lt.feature-gd {
     padding: 10px 10px;
-    background-color: #fff;
+    
     border-radius: 0 0 4px 4px;
     text-align: center; }
   .w3l-features-8 .feature-gd p {
-    font-size: 12px;
+    font-size: 15px;
+    text-align: left;
     line-height: 24px;
     color: var(--text-color); }
   .w3l-features-8 .float-top img {
