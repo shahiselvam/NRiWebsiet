@@ -12413,7 +12413,26 @@ color:#fff }
     font-size: 16px;
     line-height: 24px;
     color: var(--text-color); }
+.address-Branch{
 
+  padding: 20px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  margin-bottom: 20px;
+}
+
+.address-Branch p{
+
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: #021a36;
+}
+
+.address-Branch h6{
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 17px;
+}
 /* pricing-7*/
 .w3l-pricing-7 {
   /* //pricing-7*/ }
@@ -12893,6 +12912,10 @@ color:#fff }
 
 .heading-contact{
 
-  margin-bottom: 20px;
+  margin-bottom: 30px;
+}
+.heading-contact1{
+  text-align: center;
+  margin-bottom: 30px;
 }
 /*# sourceMappingURL=style-starter.css.map */
